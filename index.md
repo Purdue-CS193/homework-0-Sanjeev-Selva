@@ -1,4 +1,4 @@
-# <Sanjeev Selvakumar>'s First CS193 Homework
+# Sanjeev Selvakumar's First CS193 Homework
 
 - I like the relaxes vibes of the class
 - I like the fact that we are learning things that are going to help in the future
